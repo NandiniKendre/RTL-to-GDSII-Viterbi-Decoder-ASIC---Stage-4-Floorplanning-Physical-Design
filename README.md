@@ -1,0 +1,2 @@
+# -RTL-to-GDSII-Viterbi-Decoder-ASIC---Stage-4-Floorplanning-Physical-Design-
+Implementation of the Floorplanning stage for a Viterbi Decoder ASIC in SCL 180nm technology using Cadence Innovus. This stage includes design import, floorplan creation, IO pad placement, core utilization analysis, timing constraint validation, and design rule violation (DRV) assessment as part of the complete ASIC physical design flow.
