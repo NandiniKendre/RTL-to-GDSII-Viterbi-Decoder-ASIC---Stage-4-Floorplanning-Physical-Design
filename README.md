@@ -1,6 +1,6 @@
 # RTL-to-GDSII-Viterbi-Decoder-ASIC
 
-# Stage 4: Floorplanning
+# Stage 5: Floorplanning
 
 ## Overview
 
